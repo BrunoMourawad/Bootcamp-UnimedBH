@@ -1,2 +1,2 @@
-# Bootcamp-UnimedBH
-Repositório criado para as tarefas do bootcamp Unimed BH DIO
+# Desafio git/github DIO/ Bootcamp Unimed BH
+## Repositório para a tarefa da DIO
